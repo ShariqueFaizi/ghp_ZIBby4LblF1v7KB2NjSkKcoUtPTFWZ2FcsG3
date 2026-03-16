@@ -1,6 +1,6 @@
 package com.codepathway.api.entity;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "roles")

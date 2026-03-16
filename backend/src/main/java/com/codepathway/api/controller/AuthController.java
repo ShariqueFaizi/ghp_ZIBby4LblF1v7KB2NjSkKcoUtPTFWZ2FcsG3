@@ -4,7 +4,7 @@ import com.codepathway.api.dto.AuthRequest;
 import com.codepathway.api.dto.AuthResponse;
 import com.codepathway.api.dto.RegisterRequest;
 import com.codepathway.api.service.AuthService;
-import javax.validation.Valid;
+import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
